@@ -1,2 +1,2 @@
-# project-template
+# Project Template
 Template for project management
